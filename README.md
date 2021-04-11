@@ -5,6 +5,7 @@ You can find the original video here
       <a href="https://youtu.be/WAq0-5lTVMk">
      <img 
       src="https://youtu.be/WAq0-5lTVMk/0.jpg" 
+          alt = "working"
       style="width:100%;">
       </a>
     </div>
