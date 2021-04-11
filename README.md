@@ -2,8 +2,8 @@
 Beggar Your Neighbor is an easy-to-learn card game that can be enjoyed by two or more players.  Eliminate your opponent’s cards to win this game!
 You can find the original video here 
 <div align="left">
-      <a href="https://youtu.be/WAq0-5lTVMk">
-         <img src="https://youtu.be/WAq0-5lTVMk/0.jpg" style="width:100%;">
+      <a href="https://www.youtube.com/watch?v=5yLzZikS15k">
+         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
       </a>
 </div>
 
