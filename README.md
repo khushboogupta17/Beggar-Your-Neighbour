@@ -1,7 +1,11 @@
 # Beggar-Your-Neighbour
 Beggar Your Neighbor is an easy-to-learn card game that can be enjoyed by two or more players.  Eliminate your opponent’s cards to win this game!
 You can find the original video here 
- https://www.youtube.com/watch?v=A9zYqvS39AY
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 <p>
 <img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/SS_1.png" width="20%" height="20%">
