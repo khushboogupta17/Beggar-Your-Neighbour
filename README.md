@@ -3,12 +3,12 @@ Beggar Your Neighbor is an easy-to-learn card game that can be enjoyed by two or
 You can find the original video here 
 
 <p>
-<img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/BeverageMarketing/SS_1.png" width="20%" height="20%">
-<img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/BeverageMarketing/SS_2.png" width="20%" height="20%">
+<img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/SS_1.png" width="20%" height="20%">
+<img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/SS_1.png" width="20%" height="20%">
 </p>
 
 # Test
-Find the apk [here](Beggar-Your-Neighbour/tree/main/BYN.apk)
+Find the apk [here](Beggar-Your-Neighbour/blob/main/Builds/BYN.apk)
 
 # Technologies Used
 Arcore, Unity 2019.4, Visual Studio, DoTween
