@@ -3,7 +3,7 @@ Beggar Your Neighbor is an easy-to-learn card game that can be enjoyed by two or
 You can find the original video here 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=WAq0-5lTVMk">
-         <img src="https://img.youtube.com/vi/WAq0-5lTVMk/0.jpg" style="width:100%;">
+         <img src="https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/SS_3.png" style="width:100%;">
       </a>
 </div>
 
