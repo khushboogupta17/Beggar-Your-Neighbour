@@ -8,7 +8,7 @@ You can find the original video here
 </p>
 
 # Test
-Find the apk [here](Beggar-Your-Neighbour/blob/main/Builds/BYN.apk)
+Find the apk [here](https://github.com/khushboogupta17/Beggar-Your-Neighbour/blob/main/Builds/BYN.apk)
 It works on any android device.
 
 # Technologies Used
